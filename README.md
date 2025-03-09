@@ -1,5 +1,6 @@
 # Note: This script has a pushToSQL variable that is set to 1 in order to push data to SQL
-This Python script processes rainfall data from a CSV file and optionally pushes the data to an SQL database. 
+
+The WeatherCSV.py Python script processes rainfall data from a CSV file and optionally pushes the data to an SQL database. 
 The script was written with Python 3.12 and it requires the pandas and pyodbc libraries for data processing and SQL operations respectively.
 
 Prerequisites
